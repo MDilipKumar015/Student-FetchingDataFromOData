@@ -1,7 +1,7 @@
 # Fetch the Data from given Odata
 
 ## Description
-This project involves an api and a web application. From these we can fetch data from given odata.
+This project involves web application. From these we can fetch data from given odata.
 
 ## Installation
 [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
